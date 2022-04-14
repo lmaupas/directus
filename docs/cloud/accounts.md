@@ -39,10 +39,10 @@ To update your name or email, follow the steps below.
 To reset your password, follow the steps below.
 
 1. Click <span mi icon>account_circle</span> in the Dashboard Header to enter your Account Page.
-2. Click **"Send Reset Link"**. An email will be sent to reset password.
+2. Click **"Send Reset Link."** An email will be sent to reset password.
 3. Login to the email associated with your Account.
-4. Open the email and click **"Reset Password"**. You will be directed to the Password Reset Page.
-5. Reset the password as desired and click **"Reset Password"**.
+4. Open the email and click **"Reset Password."** You will be directed to the Password Reset Page.
+5. Reset the password as desired and click **"Reset Password."**
 
 ## Destroy Account
 
